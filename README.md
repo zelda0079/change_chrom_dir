@@ -1,5 +1,5 @@
-# change_chrom_dir
-更改CHROME的目錄，而且是同時更改默認瀏覽器參數
+# 更改CHROME的目錄，而且是同時更改默認瀏覽器參數
+更改完後，其他應用程式打開瀏覽器也會使用你的User Data目錄而不是默認目錄  
 
 參考文章  
 https://blog.csdn.net/weixin_34244102/article/details/92531899
